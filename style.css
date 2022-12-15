@@ -48,7 +48,7 @@ nav ul li a {
      position: relative;
 }
 nav ul li a:hover {
-      color: #ff004f;
+      color: #a51140;
 }
 nav ul li a::after {
     content: ' ';
